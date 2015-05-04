@@ -35,7 +35,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'haml', '~> 4.0.6'
 gem 'simple_form', '~> 3.1.0'
-gem 'active_device', '~> 1.2.0'
+gem 'devise'
 gem 'paperclip', '~> 4.2.1'
 
 group :development, :test do
